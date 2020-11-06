@@ -3,9 +3,11 @@
     padding-top: 10px
 } 
 li{
-    list-style-type: none;
     display: block;
     line-height: 30px;
+}
+ul{
+    list-style-type: none;
 }
 button{
     line-height: 1;
